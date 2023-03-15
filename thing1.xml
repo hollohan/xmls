@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZVIP type="guideonly">
+<CHAN>
+	<ip>224.1.1.24</ip>
+	<port>50000</port>
+	<srcip></srcip>
+	<tstype>tsoverrtp</tstype>
+	<name>TV Studio</name>
+	<icon></icon>
+	<pnum>9</pnum>
+</CHAN>
+</ZVIP>
