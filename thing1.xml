@@ -5,7 +5,6 @@
 	<port>50000</port>
 	<tstype>tsoverrtp</tstype>
 	<name>TV Studio</name>
-	<icon></icon>
 	<pnum>9</pnum>
 </CHAN>
 </ZVIP>
