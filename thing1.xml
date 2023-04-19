@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ZVIP type="guideonly">
+<ZVIP type="guide">
 <CHAN>
 	<ip>224.1.1.27</ip>
 	<port>50001</port>
@@ -7,11 +7,11 @@
 	<name>AQT8|TS-1</name>
 	<pnum>1</pnum>
 </CHAN>
-<CHAN>
-	<ip>224.1.1.27</ip>
+	<CHAN>
+	<ip>224.1.1.28</ip>
 	<port>50001</port>
 	<tstype>tsoverrtp</tstype>
-	<name>Custom</name>
+	<name>AQT8|TS-2</name>
 	<pnum>2</pnum>
 </CHAN>
 </ZVIP>
