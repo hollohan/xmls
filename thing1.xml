@@ -7,4 +7,18 @@
 	<name>TV Studio</name>
 	<pnum>9</pnum>
 </CHAN>
+<CHAN>
+	<ip>224.1.1.27</ip>
+	<port>50001</port>
+	<tstype>tsoverudp</tstype>
+	<name>AQT8|TS-1</name>
+	<pnum>1</pnum>
+</CHAN>
+<CHAN>
+	<ip>224.1.1.20</ip>
+	<port>50001</port>
+	<tstype>tsoverrtp</tstype>
+	<name>ZyCast Stream1</name>
+	<pnum>13</pnum>
+</CHAN>
 </ZVIP>
