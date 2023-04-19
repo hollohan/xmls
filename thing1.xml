@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ZVIP type="guideonly">
 <CHAN>
-	<ip>224.1.1.24</ip>
-	<port>50000</port>
-	<tstype>tsoverrtp</tstype>
-	<name>TV Studio</name>
-	<pnum>9</pnum>
-</CHAN>
-<CHAN>
 	<ip>224.1.1.27</ip>
 	<port>50001</port>
 	<tstype>tsoverudp</tstype>
@@ -15,10 +8,10 @@
 	<pnum>1</pnum>
 </CHAN>
 <CHAN>
-	<ip>224.1.1.20</ip>
+	<ip>224.1.1.27</ip>
 	<port>50001</port>
 	<tstype>tsoverrtp</tstype>
-	<name>ZyCast Stream1</name>
-	<pnum>13</pnum>
+	<name>Custom</name>
+	<pnum>1</pnum>
 </CHAN>
 </ZVIP>
